@@ -51,7 +51,11 @@ pdfplumber
 Regex-based document parsing
 
 ▶️ How to Run
+
+
 pip install -r requirements.txt
+
+
 python -m uvicorn app:app --reload
 
 
